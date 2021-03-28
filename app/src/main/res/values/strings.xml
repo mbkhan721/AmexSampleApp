@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Amex</string>
+    <string name="txtTitle">American Express</string>
+    <string name="radAmexGold">American Express® Gold Card</string>
+    <string name="radAmexPlatinum">The Platinum Card®</string>
+    <string name="radAmexEveryday">Blue Cash Everyday® Card</string>
+    <string name="txtSubtitle">Featured Cards</string>
+    <string name="imgPhrase">Phrase</string>
+    <string name="txtHint">Enter Credit Score</string>
+    <string name="btnApply">Apply</string>
+</resources>
